@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<info>
+    <id>disablestayloggedin</id>
+    <name>Disable StayLoggedIn Button</name>
+    <description>
+        This is a dummy app to disable the "Stay logged in" button at the owncloud/B2DROP login screen
+    </description>
+    <licence>AGPL</licence>
+    <author>EUDAT</author>
+    <version>0.0.1</version>
+    <dependencies>
+        <owncloud min-version="8.1" max-version="9.0" />
+    </dependencies>
+    <rememberlogin>false</rememberlogin>
+    <category>dummy</category>
+</info>
